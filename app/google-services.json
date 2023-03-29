@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "876678881418",
+    "firebase_url": "https://handsign-app-default-rtdb.firebaseio.com",
+    "project_id": "handsign-app",
+    "storage_bucket": "handsign-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876678881418:android:80199ce5fb2e67d20ecd73",
+        "android_client_info": {
+          "package_name": "com.example.crop_prediction_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876678881418-0p90qg30prn2gb8r3hl0h3anm29ahidc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crop_prediction_app",
+            "certificate_hash": "7b4bc722d2242ff8685963bd642a064a1bdcf3e3"
+          }
+        },
+        {
+          "client_id": "876678881418-d8f5ob09ei5mj3af98cvrcpc41rvdjk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrwnHm-b_zPpvrAoeWRYXXnRPliOU1D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876678881418-d8f5ob09ei5mj3af98cvrcpc41rvdjk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876678881418:android:61599d2524d701110ecd73",
+        "android_client_info": {
+          "package_name": "com.example.handsign_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876678881418-d8f5ob09ei5mj3af98cvrcpc41rvdjk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrwnHm-b_zPpvrAoeWRYXXnRPliOU1D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876678881418-d8f5ob09ei5mj3af98cvrcpc41rvdjk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
